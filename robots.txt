@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-rvq6nw.pulaucuanwin.sbs/sitemap.xml
